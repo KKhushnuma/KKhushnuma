@@ -1,0 +1,8 @@
+import java.util.Date;
+
+public class last_three_digits {
+    public static void main(String[] args) {
+int a=1557890;
+System.out.print(String.valueOf(a).substring(4));
+    }
+}
